@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+            "responses": ["Hello!", "Hi there!", "Greetings!"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": ["Goodbye!", "See you later!", "Take care!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful"],
+            "responses": ["You're welcome!", "Glad to help!", "Anytime!"]
+        },
+        {
+            "tag": "education_info",
+            "patterns": ["What is Python?", "Tell me about machine learning", "What is AI?"],
+            "responses": [
+                "Python is a programming language.",
+                "Machine learning is a method of data analysis.",
+                "AI stands for Artificial Intelligence."
+            ]
+        }
+    ]
+}

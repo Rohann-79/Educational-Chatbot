@@ -1,0 +1,4 @@
+language: "en"
+pipeline: ["nlp", "intent_classifier", "response_selector"]
+training_data: "data/intents.json"
+models_dir: "models/"

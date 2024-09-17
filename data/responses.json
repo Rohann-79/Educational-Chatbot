@@ -1,0 +1,5 @@
+{
+    "greeting": ["Hello!", "Hi there!", "Greetings!"],
+    "goodbye": ["Goodbye!", "See you later!", "Take care!"],
+    "thanks": ["You're welcome!", "Glad to help!", "Anytime!"]
+}
